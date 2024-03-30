@@ -1,0 +1,44 @@
+html, body {
+    font-family: sans-serif;
+    /* background-color: black; */
+}
+h1 {
+    font-family: fantasy;
+    font-size: 30px;
+    color: purple;
+}
+
+ul {
+    padding-left: 30px;
+    list-style-type: none;
+}
+
+ol {
+    padding-left: 30px;
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    text-align: center;
+}
+
+li {
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 10px;
+    color: blue;
+    background-color: lightpink;
+}
+
+img {
+    display: block;
+    width: 200px;
+   margin: 0 auto;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+p {
+    padding: 20px 0px;
+}
